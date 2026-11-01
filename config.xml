@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        Lascia VUOTO per usare il sito che e' gia' dentro l'app (consigliato: funziona subito).
+        Se pubblichi il sito su GitHub Pages e vuoi che l'app lo apra online, scrivi qui l'indirizzo
+        completo, per esempio: https://tuonome.github.io/friendbook/
+        Se l'indirizzo non si apre (niente rete) l'app usa comunque la versione interna.
+    -->
+    <string name="start_url"></string>
+</resources>
